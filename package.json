@@ -1,0 +1,22 @@
+{
+  "name": "memoream",
+  "version": "0.1.0",
+  "description": "Memory-efficient PDF-to-XLSX table extraction for Node.js",
+  "keywords": ["pdf", "xlsx", "excel", "table-extraction", "streaming", "nodejs"],
+  "main": "index.js",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaheeranser/memoream.git"
+  },
+  "author": "Muhammad Shaheer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaheeranser/memoream/issues"
+  },
+  "homepage": "https://github.com/shaheeranser/memoream#readme"
+}
